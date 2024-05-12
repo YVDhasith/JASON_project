@@ -1,2 +1,2 @@
-# JASON_project
+# JSON_project
 JSON &amp; AJAX (html,css,javascript,php)
