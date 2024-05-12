@@ -1,0 +1,73 @@
+[
+    {
+        "sid": 1001,
+        "name":"Kasun",
+        "age": 19,
+        "address": "No 34, Polhena, Galle.",
+        "cgpa": 3.9
+    },
+    {
+        "sid": 1002,
+        "name":"Ryan Nguyen",
+        "age": 23,
+        "address": "4 Privet Drive, Little Whinging, Surrey, UK",
+        "cgpa": 3.5
+    },
+    {
+        "sid": 1003,
+        "name":"Olivia Davis",
+        "age": 29,
+        "address": "221B Baker Street, London, UK.",
+        "cgpa": 3.6
+    },
+    {
+        "sid": 1004,
+        "name":"Marcus Lee",
+        "age": 21,
+        "address": "12 Rue de l'Amour, Paris, France",
+        "cgpa": 2.4
+    },
+    {
+        "sid": 1005,
+        "name":"Sarah Patel",
+        "age": 17,
+        "address": "432 Chestnut Street, Denver, CO",
+        "cgpa": 2.9
+    },
+    {
+        "sid": 1006,
+        "name":"x Rodriguez",
+        "age": 21,
+        "address": "789 Maple Avenue, Seattle, WA.",
+        "cgpa": 3.0
+    },
+    {
+        "sid": 1007,
+        "name":"Emily Thompson",
+        "age": 19,
+        "address": "210 Oak Lane, Chicago, Il ",
+        "cgpa": 3.1
+    },
+    {
+        "sid": 1008,
+        "name":"Sophia Garcia",
+        "age": 18,
+        "address": "555 Pine Street, Miami, FL",
+        "cgpa": 2.9
+    },
+    {
+        "sid": 1009,
+        "name":"Isabella Martinez",
+        "age": 19,
+        "address": "123 Elm Road, San Francisco, CA",
+        "cgpa": 3.1
+    },
+    {
+        "sid": 1010,
+        "name":"Harper Perez",
+        "age": 20,
+        "address": "999 Spruce Drive, New York, NY",
+        "cgpa": 3.6
+    }
+
+]
